@@ -6232,7 +6232,7 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#template-resolver;0.1!template-resolver.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#jline;2.10.6!jline.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 592ms :: artifacts dl 16ms[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 965ms :: artifacts dl 13ms[0m
 [0m[[0mdebug[0m] [0m	report for default#akkaquickstart-build;0.1-SNAPSHOT compile produced in /Users/i847209/Documents/Chandra/CGS/BTO/akkaquickstart/project/target/resolution-cache/reports/default-akkaquickstart-build-compile.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#akkaquickstart-build;0.1-SNAPSHOT runtime produced in /Users/i847209/Documents/Chandra/CGS/BTO/akkaquickstart/project/target/resolution-cache/reports/default-akkaquickstart-build-runtime.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#akkaquickstart-build;0.1-SNAPSHOT test produced in /Users/i847209/Documents/Chandra/CGS/BTO/akkaquickstart/project/target/resolution-cache/reports/default-akkaquickstart-build-test.xml[0m
@@ -6246,5 +6246,5 @@
 [0m[[0mdebug[0m] [0m	report for default#akkaquickstart-build;0.1-SNAPSHOT docs produced in /Users/i847209/Documents/Chandra/CGS/BTO/akkaquickstart/project/target/resolution-cache/reports/default-akkaquickstart-build-docs.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#akkaquickstart-build;0.1-SNAPSHOT pom produced in /Users/i847209/Documents/Chandra/CGS/BTO/akkaquickstart/project/target/resolution-cache/reports/default-akkaquickstart-build-pom.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#akkaquickstart-build;0.1-SNAPSHOT scala-tool produced in /Users/i847209/Documents/Chandra/CGS/BTO/akkaquickstart/project/target/resolution-cache/reports/default-akkaquickstart-build-scala-tool.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (592ms resolve - 16ms download)[0m
+[0m[[0mdebug[0m] [0m	resolve done (965ms resolve - 13ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m
