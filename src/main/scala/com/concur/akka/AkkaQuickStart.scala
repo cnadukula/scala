@@ -21,7 +21,7 @@ import akka.actor.{Actor, ActorLogging, ActorRef, ActorSystem, Props}
 
     override def receive ={
       case whoToGreet(who) =>
-        greeting = s"$greeting, $who"
+        greeting = s"$message, $who"
       case Greet =>
         printerActor ! Greeting(greeting)
 
